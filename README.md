@@ -36,7 +36,7 @@ functionality for this application
 - npm start
 
 ## API Endpoints
-- https://seat-booking-tg8y.onrender.com
+- https://seatbookingmain-backend.onrender.com
 - GET /api/seats - get all seats
 - POST /api/seats - reset all seats booking
 - POST /api/seats/book - book n seats
