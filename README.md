@@ -1,10 +1,7 @@
 # Seat Booking
 
 ## Deployed App
-https://golden-babka-110096.netlify.app/
-
-## Video Walkthrough of the project
-https://drive.google.com/file/d/15luU-P7s7FcdXVQ7C4QRtrZY8P7HWuDW/view?usp=sharing
+https://incandescent-kheer-d10d2c.netlify.app/
 
 ## Problem Description:
 - There are 80 seats in a coach of a train with only 7 seats in a row and last row of only 3 seats. For
